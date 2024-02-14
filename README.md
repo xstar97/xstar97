@@ -29,8 +29,8 @@
 <p align="left">I'm Xstar from the SelfHosted Space.
 <br>
 <br>- 🔭 I’m working as a volunteer on <a href="https://github.com/truecharts/charts">TrueCharts</a>.
-<br>- 📚 I'm currently learning javascript.
-<br>- ⚡ In my free time I binge watch Anime for the plot.
+<br>- 📚 I'm currently learning ~~javascript~~ Go 😎.
+<br>- ⚡ In my free time I binge watch Anime for the plot 👀.
 <div align="center">
   <img height="150" src="./imgs/anime-plot.gif"  />
 </div>
